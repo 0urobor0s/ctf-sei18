@@ -1,0 +1,41 @@
+version: '2'
+
+services:
+  nginx:
+    image: nginx:1.11.9
+    volumes_from:
+      - app
+    depends_on:
+      - app
+    ports:
+      - 8080:80
+  db:
+    image: postgres:9.6
+    ports:
+      - 5432:5432
+    env_file:
+      - containers/production/.env
+    volumes:
+      - data:/var/lib/postgresql/db-data
+  app:
+    build:
+      context: .
+      dockerfile: containers/production/Dockerfile
+    env_file:
+      - containers/production/.env
+    command: containers/scripts/wait-for-it.sh db:5432 -- containers/production/entrypoint
+    volumes:
+      - assets:/usr/app/rce-rails/public/assets
+      - nginx_config:/etc/nginx/conf.d
+    depends_on:
+      - db
+    ports:
+      - 3000:3000
+
+volumes:
+  assets:
+    external: false
+  data:
+    external: false
+  nginx_config:
+    external: false

