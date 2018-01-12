@@ -1,5 +1,5 @@
-#Challenge 11
+# Challenge 11
 
-##Difficulty
-1 - High difficulty
-2 - Easier difficulty
+## Difficulty
+1. High difficulty
+2. Easier difficulty
