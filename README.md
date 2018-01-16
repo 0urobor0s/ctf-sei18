@@ -2,7 +2,7 @@
 
 ### Challenges
 
-- [ ] /flag URL
+- [x] /flag URL
 - [ ] SQLi -> base64(img)
 - [ ] SQL user/pass, table
 - [ ] Torrent
