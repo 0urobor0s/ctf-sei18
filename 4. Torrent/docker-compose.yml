@@ -1,0 +1,21 @@
+version: '3'
+services:
+  torrentA:
+    image: quay.io/jzelinskie/chihaya:v2.0.0-rc.2
+    volumes:
+      - ./chihaya.yaml:/etc/chihaya.yaml
+    ports:
+      - 6881:6881
+  torrentB:
+    image: lednerb/opentracker-docker
+    ports:
+      - 6969:6969
+  web:
+    image: nginx
+    volumes:
+      - ./app.conf:/etc/nginx/conf.d/mysite.template
+      - ./secret:/usr/share/nginx/html/
+    ports:
+      - 1337:80
+    command: /bin/bash -c "envsubst < /etc/nginx/conf.d/mysite.template > /etc/nginx/conf.d/default.conf && nginx -g 'daemon off;'"
+

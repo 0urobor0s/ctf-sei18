@@ -17,3 +17,7 @@ Icon
 /log/*
 !/log/.keep
 /tmp
+
+hostname
+hosts  
+resolv.conf
