@@ -19,5 +19,6 @@ Icon
 /tmp
 
 hostname
-hosts  
+hosts
 resolv.conf
+mysql/
