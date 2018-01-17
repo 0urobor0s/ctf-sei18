@@ -3,7 +3,7 @@ services:
   webftp:
     build: .
     volumes:
-      - .:/var/ftp:ro
+      - ./secret:/var/ftp:ro
     ports:
       - 9000-9001:20-21
       - 65500-65515:65500-65515
