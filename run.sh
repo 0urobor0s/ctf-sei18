@@ -18,5 +18,6 @@ cd ..
 # 8
 cd 8.\ RCE/server/railsV/
 docker-compose build
+# docker-compose run --rm app bundle exec rake db:create RAILS_ENV=production
 docker-compose up
 cd ..
