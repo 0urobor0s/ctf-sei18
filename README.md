@@ -11,6 +11,6 @@
 - [ ] Bin file w/ img
 - [x] RCE, dir flag
 - [ ] WAV, tel:<>
-- [ ] SSH crack private key
+- [x] SSH crack private key
 - [ ] RE crack me -> flag
 - [ ] ROOT -> flag.all
