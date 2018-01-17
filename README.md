@@ -13,4 +13,4 @@
 - [ ] WAV, tel:<>
 - [x] SSH crack private key
 - [ ] RE crack me -> flag
-- [ ] ROOT -> flag.all
+- [x] ROOT -> flag.all
