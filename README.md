@@ -5,7 +5,7 @@
 - [x] /flag URL
 - [ ] SQLi -> base64(img)
 - [ ] SQL user/pass, table
-- [ ] Torrent
+- [x] Torrent
 - [ ] GIF, FTP -> flog
 - [ ] IRC Bot
 - [ ] Bin file w/ img
