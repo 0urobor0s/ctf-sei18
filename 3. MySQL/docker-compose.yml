@@ -8,4 +8,4 @@ services:
       - ./mysql:/var/lib/mysql
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: example
+      MYSQL_ROOT_PASSWORD: chocolate

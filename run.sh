@@ -8,6 +8,7 @@ cd ..
 # 3
 cd 3.\ MySQL/
 docker-compose up
+mysql --host=127.0.0.1 -u root --password=chocolate < criation.sql
 cd ..
 
 # 4
