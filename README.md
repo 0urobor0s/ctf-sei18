@@ -9,8 +9,8 @@
 - [ ] GIF, FTP -> flog
 - [ ] IRC Bot
 - [ ] Bin file w/ img
-- [ ] RCE, dir flag
+- [x] RCE, dir flag
 - [ ] WAV, tel:<>
 - [ ] SSH crack private key
-- [x] RE crack me -> flag
+- [ ] RE crack me -> flag
 - [ ] ROOT -> flag.all
