@@ -12,5 +12,5 @@
 - [x] 8. RCE, dir flag (Dama ouros)
 - [ ] 9. WAV, tel:<> (9 Copas)
 - [x] 10. SSH crack private key (6 Paus)
-- [ ] 11. RE crack me -> flag (Dama Espadas)
+- [x] 11. RE crack me -> flag (Dama Espadas)
 - [x] 12. ROOT -> flag.all (Às Paus)
