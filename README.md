@@ -8,7 +8,7 @@
 - [x] 4. Torrent (Valete Espadas)
 - [ ] 5. GIF, FTP -> flog (Joker Vermelho)
 - [ ] 6. IRC Bot (2 Espadas)
-- [ ] 7. Bin file w/ img (8 Copas)
+- [x] 7. Bin file w/ img (8 Copas)
 - [x] 8. RCE, dir flag (Dama ouros)
 - [ ] 9. WAV, tel:<> (9 Copas)
 - [x] 10. SSH crack private key (6 Paus)
