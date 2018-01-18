@@ -7,7 +7,7 @@
 - [x] 3. SQL user/pass, table (Dama Copas)
 - [x] 4. Torrent (Valete Espadas)
 - [ ] 5. GIF, FTP -> flog (Joker Vermelho)
-- [ ] 6. IRC Bot (2 Espadas)
+- [x] 6. IRC Bot (2 Espadas)
 - [ ] 7. Bin file w/ img (8 Copas)
 - [x] 8. RCE, dir flag (Dama ouros)
 - [ ] 9. WAV, tel:<> (9 Copas)
