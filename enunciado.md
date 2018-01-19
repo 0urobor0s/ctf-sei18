@@ -62,11 +62,12 @@ _Pista 1_: A soma de todos faz um.
 - \*nix
 - Embebedar a organização
 - Linguagens de Scripting
-- [Queen](https://www.youtube.com/watch?v=-tJYN-eG1zk)
+- [Queen]
 - Redbull
 - Vim
 - Quartas académicas
 - nmap
+- [Treino]
 
 # Regulamento
 Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, etc). A não ser que haja indicação em contrário não é permitido qualquer tipo de ataque de negação de serviço, vulgo DoS. Não é permitido o acesso físico ao servidor (onde quer que esteja). Não são permitidos ataques de bruteforce contra o servidor. Não é permitido, após aceder ao servidor, efetuar ataques a outros servidores. Não é permitido desligar o servidor ou impedir que outras equipas lá acedam.
@@ -78,4 +79,6 @@ Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, et
 
 Qualquer dúvida encontrem-nos :sunglasses:
 
+[Treino]: https://www.hackthebox.eu/
+[Queen]: https://www.youtube.com/watch?v=-tJYN-eG1zk
 [MD5]: https://en.wikipedia.org/wiki/Md5sum
