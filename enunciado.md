@@ -3,6 +3,7 @@
 - Introdução ao desafio
 
 Para participares, junta-te numa equipa de dois a três elementos e envia um e-mail para securitychallenge@cesium.di.uminho.pt com o nome da equipa, nome e emails dos membros.
+
 Quanto à pontuação, as flags têm multiplicadores diferentes, tal como indicado abaixo. Como modo de desempate, a equipa que mandar uma flag primeiro irá ter a vantagem.
 
 # FLAG
