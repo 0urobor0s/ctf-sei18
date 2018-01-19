@@ -29,7 +29,9 @@ _Pista 2_: Segundo passo: blablabla Brute force blablabla.
 _Pista 1_: Todos os 1337 hax0rs têm camadas.
 
 ## 6 (2x)
-_Pista 1_: A forma de comunicação preferida de um 1337 hax0r.
+_Pista 1_: #cesium
+
+_Pista 2_: A forma de comunicação preferida de um 1337 hax0r.
 
 ## 7 (3x)
 _Pista 1_: Nothing.
