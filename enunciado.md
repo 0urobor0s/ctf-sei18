@@ -11,41 +11,42 @@ Quanto à pontuação, as flags têm multiplicadores diferentes, tal como indica
 Todas as flags estarão no formato de uma imagem, a maioria em base64. Quando encontrares uma manda um email para xxx@xxx.pt com o [MD5] da imagem e alguma forma de _Proof of Concept_ (screenshot, explicação...).
 
 # Desafios
-## 1 - 1x
+## 1 (1x)
 _Pista 1_: A flag está no URL.
 
-## 2 - 1.5x
+## 2 (1.5x)
 _Pista 1_: Verifica sempre se tens as vacinas em dia!
 
-## 3 - 1.5x
+## 3 (1.5x)
 _Pista 1_: 
 
-## 4 - 2x
+## 4 (2x)
 _Pista 1_: Primeiro passo para seres um bom pirata: enterra o teu tesouro.
-_Pista 2_: Segundo passo: se te disserem que não, força a entrada.
 
-## 5 - 2x
+_Pista 2_: Segundo passo: blablabla Brute force blablabla.
+
+## 5 (2x)
 _Pista 1_: Todos os 1337 hax0rs têm camadas.
 
-## 6 - 2x
+## 6 (2x)
 _Pista 1_: A forma de comunicação preferida de um 1337 hax0r.
 
-## 7 - 3x
+## 7 (3x)
 _Pista 1_: Nothing.
 
-## 8 - 3x
+## 8 (3x)
 _Pista 1_: Blablabla
 
-## 9 - 3x
+## 9 (3x)
 _Pista 1_: O capitão Crunch espera sempre pelos seus cereais das 11h até às 20h.
 
-## 10 - 4x
+## 10 (4x)
 _Pista 1_: Paciência é uma virtude.
 
-## 11 - 4x
+## 11 (4x)
 _Pista 1_: Reverse me!
 
-## 12 - 5x
+## 12 (5x)
 _Pista 1_: A soma de todos faz um.
 
 # Regulamento
