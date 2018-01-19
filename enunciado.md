@@ -70,5 +70,5 @@ Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, et
 - [José "R35" Resende](https://github.com/zepedroresende)
 - [Tânia "P3rsephone" Silva](https://github.com/p3rsephone)
 
-Qualquer dúvida encontrem-nos 8-)
+Qualquer dúvida encontrem-nos.
 [MD5]: https://en.wikipedia.org/wiki/Md5sum
