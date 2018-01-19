@@ -79,6 +79,6 @@ Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, et
 
 Qualquer dúvida encontrem-nos :sunglasses:
 
-[Treino]: https://www.hackthebox.eu/
+[Treino]: http://www.dvwa.co.uk/
 [Queen]: https://www.youtube.com/watch?v=-tJYN-eG1zk
 [MD5]: https://en.wikipedia.org/wiki/Md5sum
