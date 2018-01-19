@@ -73,7 +73,7 @@ Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, et
 
 # Responsáveis
 - [Daniel "0urobor0s" Tinoco](https://github.com/0urobor0s)
-- [José "R35" Resende](https://github.com/zepedroresende)
+- [José "Hypn0s" Resende](https://github.com/zepedroresende)
 - [Tânia "P3rsephone" Silva](https://github.com/p3rsephone)
 
 Qualquer dúvida encontrem-nos :sunglasses:
