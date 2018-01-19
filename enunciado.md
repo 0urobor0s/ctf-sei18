@@ -25,6 +25,8 @@ _Pista 2_: Se já resolveste o desafio 2 então tenta chegar um pouco mais além
 ## 4 _(2x)_
 _Pista 1_: Primeiro passo para seres um bom pirata: enterra o teu tesouro.
 
+_Pista 2_: You wouldn't steal a car. 
+
 ## 5 _(2x)_
 _Pista 1_: Nem tudo é o que parece.
 
@@ -55,12 +57,18 @@ _Pista 1_: Reverse me!
 ## 12 _(5x)_
 _Pista 1_: A soma de todos faz um.
 
+# Recomendações
+- Unix
+- [Queen](https://www.youtube.com/watch?v=-tJYN-eG1zk)
+- Vim/Neovim
+
 # Regulamento
-Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, etc). A não ser que haja indicação em contrário não é permitido qualquer tipo de ataque de negação de serviço, vulgo DoS. Não é permitido o acesso físico ao servidor (onde quer que esteja). Não é permitido, após aceder ao servidor, efetuar ataques a outros servidores. Não é permitido desligar o servidor ou impedir que outras equipas lá acedam.
+Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, etc). A não ser que haja indicação em contrário não é permitido qualquer tipo de ataque de negação de serviço, vulgo DoS. Não é permitido o acesso físico ao servidor (onde quer que esteja). Não são permitidos ataques de bruteforce contra o servidor. Não é permitido, após aceder ao servidor, efetuar ataques a outros servidores. Não é permitido desligar o servidor ou impedir que outras equipas lá acedam.
 
 # Responsáveis
 - [Daniel "0urobor0s" Tinoco](https://github.com/0urobor0s)
 - [José "R35" Resende](https://github.com/zepedroresende)
 - [Tânia "P3rsephone" Silva](https://github.com/p3rsephone)
 
+Qualquer dúvida encontrem-nos 8-)
 [MD5]: https://en.wikipedia.org/wiki/Md5sum
