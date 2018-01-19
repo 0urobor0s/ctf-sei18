@@ -24,7 +24,7 @@ _Pista 1_: Primeiro passo para seres um bom pirata: enterra o teu tesouro.
 _Pista 2_: Segundo passo: se te disserem que não, força a entrada.
 
 ## 5 - 2x
-_Pista 1_: Todos os 1337 hax0rs têm camadas.
+_Pista 1_: Nem tudo é o que parece.
 
 ## 6 - 2x
 _Pista 1_: A forma de comunicação preferida de um 1337 hax0r.
@@ -51,7 +51,7 @@ _Pista 1_: A soma de todos faz um.
 Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, etc). A não ser que haja indicação em contrário não é permitido qualquer tipo de ataque de negação de serviço, vulgo DoS. Não é permitido o acesso físico ao servidor (onde quer que esteja). Não é permitido, após aceder ao servidor, efetuar ataques a outros servidores. Não é permitido desligar o servidor ou impedir que outras equipas lá acedam.
 
 # Responsáveis
-- [Daniel "0uroboros" Tinoco](https://github.com/0urobor0s)
+- [Daniel "0urobor0s" Tinoco](https://github.com/0urobor0s)
 - [José "R35" Resende](https://github.com/zepedroresende)
 - [Tânia "P3rsephone" Silva](https://github.com/p3rsephone)
 
