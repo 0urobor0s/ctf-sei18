@@ -8,7 +8,7 @@ Quanto à pontuação, as flags têm multiplicadores diferentes, tal como indica
 
 # FLAG
 
-Todas as flags estarão no formato de uma imagem, a maioria em base64. Quando encontrares uma manda um email para xxx@xxx.pt com o [MD5] da imagem e alguma forma de _Proof of Concept_ (screenshot, explicação...).
+Todas as flags estarão no formato de uma imagem, a maioria em base64. Quando encontrares uma manda um email para securitychallenge@cesium.di.uminho.pt com o [MD5] da imagem e alguma forma de _Proof of Concept_ (screenshot, explicação...).
 
 # Desafios
 ## 1 (1x)
