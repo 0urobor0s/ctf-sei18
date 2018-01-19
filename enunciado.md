@@ -58,9 +58,15 @@ _Pista 1_: Reverse me!
 _Pista 1_: A soma de todos faz um.
 
 # Recomendações
-- Unix
+- Participar no desafio
+- \*nix
+- Embebedar a organização
+- Linguagens de Scripting
 - [Queen](https://www.youtube.com/watch?v=-tJYN-eG1zk)
-- Vim/Neovim
+- Redbull
+- Vim
+- Quartas académicas
+- nmap
 
 # Regulamento
 Apenas pessoas ligadas à universidade poderão concorrer (alunos, bolseiros, etc). A não ser que haja indicação em contrário não é permitido qualquer tipo de ataque de negação de serviço, vulgo DoS. Não é permitido o acesso físico ao servidor (onde quer que esteja). Não são permitidos ataques de bruteforce contra o servidor. Não é permitido, após aceder ao servidor, efetuar ataques a outros servidores. Não é permitido desligar o servidor ou impedir que outras equipas lá acedam.
