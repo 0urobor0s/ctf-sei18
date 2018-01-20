@@ -10,7 +10,7 @@
 - [x] 6. IRC Bot (2 Espadas)
 - [x] 7. Bin file w/ img (8 Copas)
 - [x] 8. RCE, dir flag (Dama ouros)
-- [ ] 9. WAV, tel:<> (9 Copas)
+- [x] 9. WAV, tel:<> (9 Copas)
 - [x] 10. SSH crack private key (6 Paus)
 - [x] 11. RE crack me -> flag (Dama Espadas)
 - [x] 12. ROOT -> flag.all (Às Paus)
