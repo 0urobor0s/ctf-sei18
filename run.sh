@@ -16,6 +16,16 @@ cd 4.\ Torrent/
 docker-compose up
 cd ..
 
+# 5
+cd 5.\ FTP/
+docker-compose build
+docker-compose up
+
+#6
+cd 6.\ irc\ bot/
+./run.sh
+cd ..
+
 # 8
 cd 8.\ RCE/server/railsV/
 docker-compose build
