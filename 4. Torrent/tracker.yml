@@ -1,0 +1,12 @@
+version: '3'
+services:
+  torrentA:
+    image: quay.io/jzelinskie/chihaya:v2.0.0-rc.2
+    volumes:
+      - ./chihaya.yaml:/etc/chihaya.yaml
+    ports:
+      - 6881:6881
+  torrentB:
+    image: lednerb/opentracker-docker
+    ports:
+      - 6969:6969
