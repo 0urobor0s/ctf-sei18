@@ -46,6 +46,7 @@ _Pista 1_: Todos os computadores executam código.
 ## 9 _(3x)_
 _Pista 1_: O capitão Crunch espera sempre pelos seus cereais das 11h até às 20h.
 
+_Pista 2_: O capitão Crunch gosta muito de passar férias em Roma.
 ## 10 _(4x)_
 _Pista 1_: Paciência é uma virtude.
 
