@@ -8,7 +8,7 @@ cd ..
 # 2
 cd 2.\ SQLi/
 docker-compose up --build
-# insert sql stuff
+docker exec 2sqli_db_1 /db-s/insert.sh
 cd ..
 
 # 3

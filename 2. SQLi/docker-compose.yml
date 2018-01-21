@@ -25,5 +25,6 @@ services:
     restart: always
     volumes:
       - ./mysql:/var/lib/mysql
+      - ./db-s:/db-s
     environment:
       - MYSQL_ROOT_PASSWORD=chocolate
