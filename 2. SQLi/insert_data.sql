@@ -1,0 +1,12 @@
+GRANT SELECT ON *.* TO 'sei'@'localhost' IDENTIFIED BY 'dwipas1241';
+GRANT SELECT ON *.* TO 'goo.gl/5dGBUV'@'localhost' IDENTIFIED BY '124u13t9hqfna';
+GRANT SELECT ON *.* TO 'hax0r'@'localhost' IDENTIFIED BY 'sdfag142';
+GRANT SELECT ON *.* TO '1337'@'localhost' IDENTIFIED BY 'asfgq231';
+GRANT SELECT ON *.* TO 'wow'@'localhost' IDENTIFIED BY 'asdt1124';
+GRANT SELECT ON *.* TO 'so'@'localhost' IDENTIFIED BY '9gAG09';
+GRANT SELECT ON *.* TO 'leet'@'localhost' IDENTIFIED BY '09sd0g9sdg';
+GRANT SELECT ON *.* TO 'much'@'localhost' IDENTIFIED BY '124bif9s';
+GRANT SELECT ON *.* TO 'pwn'@'localhost' IDENTIFIED BY 'asg$1092412';
+GRANT SELECT ON *.* TO 'very'@'localhost' IDENTIFIED BY 'sdg1223128yughew';
+GRANT SELECT ON *.* TO 'ownage'@'localhost' IDENTIFIED BY '123bsa';
+GRANT SELECT ON *.* TO 'damm'@'localhost' IDENTIFIED BY 'poasfh';

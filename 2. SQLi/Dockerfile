@@ -1,4 +1,3 @@
-FROM resende/ctf:firstimagepush
-WORKDIR /var/www/example.com
-EXPOSE 80
-RUN service mysql start && service apache2 start
+FROM php:5-fpm
+
+RUN docker-php-ext-install pdo pdo_mysql mysqli mysql

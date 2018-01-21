@@ -5,6 +5,12 @@ cd 1.\ Flag/
 docker-compose up
 cd ..
 
+# 2
+cd 2.\ SQLi/
+docker-compose up --build
+# insert sql stuff
+cd ..
+
 # 3
 cd 3.\ MySQL/
 docker-compose up
@@ -20,6 +26,7 @@ cd ..
 cd 5.\ FTP/
 docker-compose build
 docker-compose up
+cd ..
 
 #6
 cd 6.\ irc\ bot/
