@@ -1,0 +1,9 @@
+version: '2'
+services:
+  httpd:
+    build: .
+    volumes:
+      - ./public_html:/var/www/example.com
+    ports:
+      - 8080:80
+
