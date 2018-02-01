@@ -1,0 +1,30 @@
+version: '2'
+services:
+  nginx:
+    image: nginx:1.13
+    restart: always
+    links:
+      - php
+    volumes:
+      - ./html:/var/www/html/:ro
+      - ./nginx/conf/nginx.conf:/etc/nginx/conf/nginx.conf:ro
+      - ./nginx/conf.d:/etc/nginx/conf.d:ro
+    ports:
+      - 8082:80
+  php:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    restart: always
+    links:
+      - db
+    volumes:
+      - ./html:/var/www/html
+  db:
+    image: mariadb:latest
+    restart: always
+    volumes:
+      - ./mysql:/var/lib/mysql
+      - ./db-s:/db-s
+    environment:
+      - MYSQL_ROOT_PASSWORD=chocolate
