@@ -1,9 +1,9 @@
 version: '3'
 services:
-  webftp:
-    build: .
+  sftp:
+    image: atmoz/sftp
     volumes:
-      - ./secret:/var/ftp:ro
+      - ./secret:/home/anonymous/upload:ro
     ports:
-      - 9000-9001:20-21
-      - 65500-65515:65500-65515
+      - "21:22"
+    command: anonymous:anonymous:1001
