@@ -50,7 +50,7 @@ _Pista 2_: O capitão Crunch gosta muito de passar férias em Roma.
 ## 10 _(4x)_
 _Pista 1_: Paciência é uma virtude.
 
-_Pista 2_: Existem defaults perigosos!
+_Pista 2_: Encontra-nos e diz a mensagem secreta.
 
 ## 11 _(4x)_
 _Pista 1_: Reverse me!
