@@ -3,7 +3,7 @@
 ### Challenges
 
 - [x] 1. /flag URL (3 Paus)
-- [ ] 2. SQLi -> base64(img) (5 Ouros)
+- [x] 2. SQLi -> base64(img) (5 Ouros)
 - [x] 3. SQL user/pass, table (Dama Copas)
 - [x] 4. Torrent (Valete Espadas)
 - [x] 5. FTP -> file -> png -> string -> flag (Joker Vermelho)
