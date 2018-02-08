@@ -30,6 +30,7 @@ cd ..
 
 #6
 cd 6.\ irc\ bot/
+killall bot.py
 python bot.py &
 cd ..
 
